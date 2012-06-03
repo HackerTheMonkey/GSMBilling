@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FormatConfig>
+	<CDRFormat type="VOICE"></CDRFormat>
+	<CDRFormat type="SMS"></CDRFormat>
+	<CDRFormat type="GPRS"></CDRFormat>
+</FormatConfig>
